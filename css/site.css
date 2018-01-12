@@ -1,0 +1,26 @@
+@charset "utf-8";
+h1,h2,h3,h4,h5,h6,p {
+	font-family:"微軟正黑體";
+}
+.container-fluid {
+	padding:0px;	
+}
+a.navbar-brand {
+	padding:0px 10px 0px 20px;
+}
+.navbar-default ,.footerbg {
+	background-color:#C1FFE5;
+}
+.navbar-default .navbar-nav>li>a {
+	color:#704917;
+}
+.navbar-default .navbar-nav>li>a:hover {
+	color: white;
+}
+.graybg {
+	background-color:#4E4E4E;
+	text-align:center;
+}
+.graybg p {
+	color:white;
+}
